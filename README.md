@@ -1,1 +1,2 @@
 # Ocular-Disease-Recognition
+This project utilizes the VGG16 convolutional neural network (CNN) architecture to diagnose various eye diseases, including cataract, diabetic retinopathy, glaucoma, and age-related macular degeneration (AMD). The model is trained on a dataset comprising images of diseased and healthy eyes, allowing it to classify new images and assist in the early detection of eye disorders.
